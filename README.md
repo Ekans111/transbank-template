@@ -1,10 +1,10 @@
-# Ejemplo Transbank SDK para NodeJS
+# Implementation Transbank SDK with NodeJS
 
-## Instalación
+## Installation
 
-Ejecutar `npm install`
+run command `npm install`
 
-## Ejecución
+## Run
 
-Levantar el proyecto usando `npm start`
-Levantar el proyecto en windows usando `npm run start-windows`
+Start server with debugging `npm start`
+Just start server `npm run start-windows`
